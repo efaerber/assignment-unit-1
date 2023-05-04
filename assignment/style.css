@@ -9,3 +9,17 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-image: url(https://lh3.google.com/u/0/d/1nlZwL6lNK6LpDOHxD4vw0eUV6YLCvIMY=w3840-h1888-iv1) ;
+    background-repeat: repeat-x;
+}
+h1 {
+    color: purple;
+}
+ul {
+    color: red;
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
