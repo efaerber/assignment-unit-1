@@ -9,17 +9,33 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+div {
+    background-color: #E31837;
+}
+
+img {
+    border: 4px dotted gold;
+}
 
 body {
-    background-image: url(https://lh3.google.com/u/0/d/1nlZwL6lNK6LpDOHxD4vw0eUV6YLCvIMY=w3840-h1888-iv1) ;
-    background-repeat: repeat-x;
+    div {
+        background-color: #E31837;
+    }  
 }
+
 h1 {
+    text-align: center;
     color: purple;
 }
+
 ul {
-    color: red;
+    color: rgb(0, 255, 204);
 }
+
 ul {
     font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: aquamarine;
+    font-style: italic;
 }
